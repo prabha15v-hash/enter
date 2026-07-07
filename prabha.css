@@ -39,3 +39,9 @@ body{
   from { background-color: blueviolet; }
   to { background-color: mediumturquoise; }
 }
+button{
+    background-color:black;
+    color:white;
+    padding:15px;
+    font-size:12px;
+}
