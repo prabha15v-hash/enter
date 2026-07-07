@@ -1,0 +1,41 @@
+h1{
+    color:black;
+    font-style: oblique ;
+    background-color: white;
+}
+h2{
+    color:whitesmoke;
+}
+body{ 
+    background-color:blueviolet;
+    animation-name:MyAnimation;
+    animation-duration:4s ;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    animation-iteration-count: infinite;
+}
+#you{
+    width:400px;
+    height:400px;   
+}
+#share{
+    width:400px;
+    height:400px;
+}
+#jio{
+    width:400px;
+    height:400px;
+}
+.p{
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: navy;
+    text-underline-position: below;
+    text-underline:;
+
+}
+@keyframes MyAnimation {
+  from { background-color: blueviolet; }
+  to { background-color: mediumturquoise; }
+}
