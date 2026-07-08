@@ -48,3 +48,7 @@ button{
 .img{
 clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
 }
+#web{
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+}
+     
